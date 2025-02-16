@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Fabine Bobby Vackachan**  
+# HI 👋  I'm **Fabine Bobby Vackachan**  
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2585799/screenshots/6555657/__2_3_____.gif" alt="Cover Image"/>
