@@ -78,9 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fabine-bobby&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabine-bobby&theme=radical" width="48%" alt="GitHub Streak"/>
 </p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabine-bobby&layout=compact&theme=radical" width="40%" alt="Top Languages"/>
-</p>  
 
 ---
 
